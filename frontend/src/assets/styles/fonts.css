@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h1, h2 {
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: 600;
+  }
+
+  h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  /* 써봤는데 기본 폰트랑 차이점을 못 느낄 정도로 미미한 변화라서 주석 */
+  /* h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+  } */
+
+  div {
+    font-family: 'Lato', sans-serif;
+  }
