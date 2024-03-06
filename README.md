@@ -78,9 +78,11 @@
 <br/>
 <br/>
 
-# 🔍4. ERD
+# 🔍4. 산출물
+## 4-1. ERD
 ![TEAM_MM_ERD](./images/Team_MM_ERD.png)
-
+## 4-2. Notion
+https://www.notion.so/sgryu/Ticket-Box-f4bbc934189f4cc79f1f17ae89fe762d
 
 <br/>
 
