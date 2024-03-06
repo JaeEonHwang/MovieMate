@@ -44,6 +44,7 @@
 ![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?style=for-the-badge&logo=Gitlab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
+<br/>
 
 # 🔍3. 주요 기능
 
@@ -74,8 +75,7 @@
 ### - 마이페이지
   <img src="./images/mypage.png" width="250"/>
 
----
-
+<br/>
 <br/>
 
 # 🔍4. ERD
