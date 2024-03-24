@@ -49,31 +49,31 @@
 # 🔍3. 주요 기능
 
 ### - 로그인
-  <img src="./images/login.png" width="250"/>
+  <img src="./images/login.png" width="600"/>
 
 ### - 회원가입 후 영화 취향 선택
-  <img src="./images/movie_choice.png" width="250"/>
+  <img src="./images/movie_choice.png" width="600"/>
 
 ### - 영화 취향에 따른 영화 추천(장르 기반)
-  <img src="./images/main.png" width="250"/>
+  <img src="./images/main.png" width="600"/>
 
 ### - 영화 상세 정보 페이지
-  <img src="./images/movie_detail.png" width="250"/>
+  <img src="./images/movie_detail.png" width="600"/>
 
 ### - 영화별 댓글
-  <img src="./images/reply.png" width="250"/>
+  <img src="./images/reply.png" width="600"/>
 
 ### - 배우 상세 정보 페이지
-  <img src="./images/actor_detail.png" width="250"/>
+  <img src="./images/actor_detail.png" width="600"/>
 
 ### - 장르별 영화 페이지
-  <img src="./images/genre_detail.png" width="250"/>
+  <img src="./images/genre_detail.png" width="600"/>
 
 ### - 영화/인물/장르 검색
-  <img src="./images/search.png" width="250"/>
+  <img src="./images/search.png" width="600"/>
 
 ### - 마이페이지
-  <img src="./images/mypage.png" width="250"/>
+  <img src="./images/mypage.png" width="600"/>
 
 <br/>
 <br/>
